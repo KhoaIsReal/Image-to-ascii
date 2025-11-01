@@ -29,5 +29,5 @@ gcc main.c -o imagetoascii -lm
 ```
 
 ## Bonus
-Use main or main.exe if you're on windows to use directly if you don't want to build.
+Use main if you're on linux or main.exe if you're on windows to use directly if you don't want to build.
 
